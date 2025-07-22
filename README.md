@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center"> 🌱 Atualmente aprendendo **HTML,CSS, JavaScript** </h3> <br>
+<h3 align="center"> 🌱 Atualmente aprendendo **HTML,CSS, JavaScript** 🌱 </h3> <br>
 
 <h2 align="center">🤖 Linguagens e Tecnologias 🤖 </h2>
 
