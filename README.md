@@ -1,13 +1,33 @@
 
 <h1 align="center" >Olá, meu nome é João Henrique Braga</h1>
-<h3 align="center">Programador que acabou de migrar de carreira, apaixonado por Jogos e pelo que acontece por trás das telas.</h3>
+<h3 align="center">Programador iniciante, apaixonado por Jogos e pelo que acontece por trás das telas.</h3>
 
 <br>
 
-<h3 align="center"> 🌱 Atualmente aprendendo **HTML, JavaScript e CSS** </h3> <br>
+<h3 align="center"> 🌱 Atualmente aprendendo **HTML,CSS, JavaScript** </h3> <br>
 
-<h3 align="center">Linguagens:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h2 align="center">🤖 Linguagens e Tecnologias 🤖 </h2>
+
+<p align="center">
+  <img 
+      alt="HTML"
+      title="HTML" 
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+      alt="CSS" 
+      title="CSS"
+      width="30px"  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+</p>
 
 <h3 align="center">Contato:</h3>
 <p align="center">
